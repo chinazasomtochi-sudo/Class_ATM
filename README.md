@@ -1,10 +1,10 @@
 # Class_ATM
 A simple ATM system built with Python class that allows users to create account, check balance, deposit, withdraw, and check their balance.
 # Atm_code
-A simple ATM system built with Python that allows users to create account, check balance, deposit, withdraw, and check their balance.
+A simple ATM system built with Python class that allows users to create account, check balance, deposit, withdraw, and check their balance.
 # ATM System in Python
 
-This project simulates a simple ATM system using Python.  
+This project simulates a simple ATM system using Python class.  
 Users can:
 - Create an account
 - Check balance
